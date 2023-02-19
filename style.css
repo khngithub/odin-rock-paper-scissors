@@ -1,0 +1,16 @@
+.buttons {
+    margin: 8px 0;
+}
+
+.currentResult {
+    background-color: lightgray;
+}
+
+.winnerResult {
+    background-color: green;
+    color: white;
+}
+
+.loserResult {
+    background-color: red;
+}
